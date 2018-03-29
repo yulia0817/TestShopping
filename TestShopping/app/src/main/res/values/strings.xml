@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="slogan">Clothes Shopping Mall
+    asdfasdfasdfsadfasf
+    safsadfsf</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="forgot_pwd"><u>비밀번호를 잊어버리셨나요?</u></string>
+</resources>
