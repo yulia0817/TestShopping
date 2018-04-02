@@ -17,6 +17,7 @@ import com.ttp.getapp.Remote.RetrofitClient;
 
 public class Common {
 
+    public static String PHONE_TEXT = "userPhone";
     public static User currentuser;
     public static Request currentRequest;
     public static final String UPDATE = "Update";
